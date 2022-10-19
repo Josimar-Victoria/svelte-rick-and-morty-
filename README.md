@@ -1,5 +1,7 @@
 # Svelte + Vite
 
+https://josimar-victoria.github.io/svelte-rick-and-morty-/
+
 This template should help get you started developing with Svelte in Vite.
 
 ## Recommended IDE Setup
